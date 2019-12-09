@@ -22,5 +22,6 @@ export default {
   margin-top: 60px;
   font-weight: 500;
   font-size: 10px;
+    display: block;
 }
 </style>
