@@ -2,6 +2,7 @@
   <div id="app1">
     <img src="./assets/logo.png">
     <div>1111</div>
+    <div>123123123123123</div>
     <router-view/>
   </div>
 </template>
