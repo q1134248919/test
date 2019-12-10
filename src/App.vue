@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app1">
     <img src="./assets/logo.png">
     <div>1111</div>
     <router-view/>
@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App11111123123121'
 }
 </script>
 
